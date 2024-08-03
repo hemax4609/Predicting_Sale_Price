@@ -17,9 +17,8 @@ The dataset undergoes several preprocessing steps, including:
 * Feature scaling
 # Model Development
 Various machine learning models are explored and evaluated, such as:
-
-* Linear Regression
 * Random Forest
+  
 The optimal model is selected based on performance metrics like Root Mean Squared Log Error (RMSLE).
 
 # Evaluation
