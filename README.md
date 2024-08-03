@@ -3,11 +3,11 @@
 This project aims to predict the sale price of bulldozers using machine learning techniques. It leverages historical sales data to build a model capable of accurately estimating the price of a bulldozer based on its features.
 
 # Dataset
-The dataset used for this project is obtained from Kaggle Bluebook for Bulldozers competition. It consists of three primary datasets:
+The dataset used for this project is obtained from Kaggle Bluebook for Bulldozers competition. It consists of tWO primary datasets:
 
-* Train.csv: Contains historical sales data up to 2011.
-* Valid.csv: Contains data from January 1, 2012 to April 30, 2012.
+* TrainAndValid.csv: Contains historical sales data up to 2012.
 * Test.csv: Contains data from May 1, 2012 to November 2012.
+* Training data upto 2011 and validation data from January 1, 2012 to April 30, 2012
 # Data Preprocessing
 The dataset undergoes several preprocessing steps, including:
 
