@@ -22,7 +22,8 @@ Various machine learning models are explored and evaluated, such as:
 The optimal model is selected based on performance metrics like Root Mean Squared Log Error (RMSLE).
 
 # Evaluation
-The model's performance is assessed using the RMSLE metric on the validation set.
+* The model's performance is assessed using the RMSLE metric on the validation set.
+* It also shows the importance of features.
 
 # Dependencies
 * Python
@@ -31,7 +32,4 @@ The model's performance is assessed using the RMSLE metric on the validation set
 * Scikit-learn
 * Matplotlib
 * Seaborn
-# Usage
-* Clone the repository.
-* Install the required dependencies using pip install -r requirements.txt.
-* Run the Jupyter Notebook or Python script to train and evaluate the model.
+
